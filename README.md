@@ -9,7 +9,7 @@ The CSE-Universe is a website which contains link of famous blog and docs in the
 
 ## Documentation
 
-The website is desgined and with simle HTML,CSS .It contains link of blog and docs of varioius programming language
+The website is desgined and with simple HTML,CSS .It contains link of blog and docs of varioius programming language
 
 
 ## Screenshots
